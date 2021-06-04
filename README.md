@@ -26,11 +26,8 @@ As of now, the app will have:
 - • Ability to register , if not already done.
 - • Adding incorrect details or leaving the textbox empty prompts a set of pre-assigned errors.
 - • Option to track your order and see order history of a customer.
-- • Separate login Id for Customers and Admin.
+- • Separate login Id for Customers .
 - • A Customer user profile to view all orders under his name.
-- • Admin has the ability to view all the orders placed, change its status.
-- • Ability to show the real-time status of your order placed/confirmed/in route/ delivered etc, controlled from a separate admin page.
-- • Admins can check for placed order and update its status.
 
 **\*** happy customer, happy life **\*\***
 
@@ -68,8 +65,13 @@ In building this Foodie web app, we will majorly use:
 
 # WORKING TOGETHER
 
-- • ANJALI
-- • ANUJ TIWARI
-- BATCH: CVRAMAN
+- • ATUL KUMAR
+- • ADITYA SHARMA
+- BATCH: SUBRAMANYAN
+
+HOW TO START THE PROJECT:-
+- INSTALL npm i
+- run "node server.js" in terminal
+- 
 
 **_ THANK YOU_**
