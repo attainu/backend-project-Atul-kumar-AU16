@@ -28,9 +28,7 @@ As of now, the app will have:
 - • Option to track your order and see order history of a customer.
 - • Separate login Id for Customers and Admin.
 - • A Customer user profile to view all orders under his name.
-- • Admin has the ability to view all the orders placed, change its status.
-- • Ability to show the real-time status of your order placed/confirmed/in route/ delivered etc, controlled from a separate admin page.
-- • Admins can check for placed order and update its status.
+
 
 **\*** happy customer, happy life **\*\***
 
@@ -55,6 +53,7 @@ In building this Foodie web app, we will majorly use:
 - • Socket.io: enables real-time bidirectional event-based communication.
 - • Noty: It is a notification library that makes it easy to create alert - success - error - warning - information - confirmation
 - • Moment.js: it is used for formatting Date and time.
+- • Heroku
 
 # UPDATES THAT MIGHT COME IN FUTURE
 
@@ -68,8 +67,14 @@ In building this Foodie web app, we will majorly use:
 
 # WORKING TOGETHER
 
-- • ANJALI
-- • ANUJ TIWARI
-- BATCH: CVRAMAN
+- • Atul Kumar
+- • Aditya Sharma
+- BATCH: Subramanyam
+
+HOW TO START THE PROJECT:-
+
+INSTALL npm i
+run "node server.js" in terminal
+
 
 **_ THANK YOU_**
