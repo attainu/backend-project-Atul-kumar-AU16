@@ -7,7 +7,7 @@
         "dev": "nodemon server.js",
         "start": "node server.js"
     },
-    "author": "AnujTiwari",
+    "author": "ATUL/ADITYA",
     "license": "ISC",
     "dependencies": {
         "axios": "^0.21.1",
