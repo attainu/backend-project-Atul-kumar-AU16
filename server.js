@@ -1,4 +1,3 @@
-
 require("dotenv").config();
 
 const express = require("express");
@@ -40,7 +39,7 @@ const Emitter = require('events')
 
 
 //Database Connection
-const url = "mongodb+srv://xyz:xyz@cluster0.odtx5.mongodb.net/item?retryWrites=true&w=majority"
+const url = "mongodb+srv://aayanchauhan9041:9041250613@@@@@cluster0.bejhk.mongodb.net/items?retryWrites=true&w=majority"
 
 
 mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true, useFindAndModify: true });
@@ -60,7 +59,7 @@ connection.once('open', () => {
 
 
 
-// const url = "mongodb+srv://xyz:xyz@cluster0.odtx5.mongodb.net/item?retryWrites=true&w=majority"
+// const url = "mongodb+srv://aayanchauhan9041:9041250613@@@@@cluster0.bejhk.mongodb.net/items?retryWrites=true&w=majority"
 // mongoose.connect(url, {
 //         useNewUrlParser: true,
 //         useCreateIndex: true,
@@ -71,8 +70,7 @@ connection.once('open', () => {
 //     console.log('Database connected...')
 // );
 
-// const url = "mongodb+srv://admin:anj1234@cluster0.8jt9w.mongodb.net/foodie?retryWrites=true&w=majority";
-
+//
 
 
 
